@@ -5,6 +5,8 @@ Updated repository derived from the Krupt Console Helper.
 In the previous release the repo contained an .exe file which is not acceptable. Apologies for the mistake.
 In this new version I added:
 
+**This repo only works on windows. I will be releasing a linux equivalent in the future.**
+
 Headers for the source code
 
 The Krupt source file is updated
